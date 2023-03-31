@@ -1,0 +1,8 @@
+# Ignore node modules
+node_modules/
+
+# Ignore unwanted project files for the image
+resources/
+images/
+*.md
+dist/
